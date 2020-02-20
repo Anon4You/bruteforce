@@ -37,13 +37,13 @@ def banner():
     os.system('clear')
     print " "
     runntxt(Y+'         bsdk channel subscribe kar dena ')
-    runntxt(GL+"              Wellcome Hackers. ^_^")
-    runntxt(WW+'   __________                __ ')         
-    runntxt(GL+'   \______   \_______ __ ___/  |_  ____  ')
-    runntxt(GG+'    |    |  _/\_  __ \  |  \   __\/ __ \ ')
-    runntxt(WW+'    |    |   \ |  | \/  |  /|  | \  ___/ ')
+    runntxt(GG+"              Wellcome Hackers. ^_^")
+    runntxt(GL+'   __________                __ ')         
+    runntxt(Y+'   \______   \_______ __ ___/  |_  ____  ')
+    runntxt(WW+'    |    |  _/\_  __ \  |  \   __\/ __ \ ')
+    runntxt(GL+'    |    |   \ |  | \/  |  /|  | \  ___/ ')
     runntxt(GG+'    |______  / |__|  |____/ |__|  \___  > ')
-    runntxt(Y+'           \/                         \/ ')
+    runntxt(R+'           \/                         \/ ')
 			   
 	    
     time.sleep(1.5)
