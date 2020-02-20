@@ -47,18 +47,18 @@ def banner():
 			   
 	    
     time.sleep(1.5)
-    print GG+"  √=============================================√"
-    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
-    print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: BISHAL SINGH             |"
-    print GL+"  |       Easy Way To BruteForce Facebook       |"
-    print WW+"  |             YouTube: Anon4You               |"
-    print Y+"  |              GitHub: Anon4You               |"
+    print GL+"  √=============================================√"
+    print R+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
+    print WW+"  √=============================================√"
+    print GG+"  |            MOD BY: BISHAL SINGH             |"
+    print C+"  |       Easy Way To BruteForce Facebook       |"
+    print GL+"  |             YouTube: Anon4You               |"
+    print W+"  |              GitHub: Anon4You               |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |               Noobda Hacker                 |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
+    print R+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
     print GG+"  √=============================================√"
 
 banner()
