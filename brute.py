@@ -25,7 +25,7 @@ G = "\033[32m"    # Green
 W = "\033[0;1m"     # White
 R = "\033[31m"    # Red
 C = "\033[36;1m"    # Cyan
-
+P = "\033[35m"
 def runntxt(s):
         for noobs in s + '\n':
                 sys.stdout.write(noobs)
@@ -36,35 +36,35 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(Y+'         bsdk channel subscribe kar dena ')
-    runntxt(GG+"              Wellcome Hackers. ^_^")
+    runntxt(P+'         bsdk channel subscribe kar dena ')
+    runntxt(C+"              Wellcome Hackers. ^_^")
     runntxt(GL+'   __________                __ ')         
-    runntxt(Y+'   \______   \_______ __ ___/  |_  ____  ')
-    runntxt(WW+'    |    |  _/\_  __ \  |  \   __\/ __ \ ')
-    runntxt(GL+'    |    |   \ |  | \/  |  /|  | \  ___/ ')
-    runntxt(GG+'    |______  / |__|  |____/ |__|  \___  > ')
+    runntxt(R+'   \______   \_______ __ ___/  |_  ____  ')
+    runntxt(GL+'    |    |  _/\_  __ \  |  \   __\/ __ \ ')
+    runntxt(R+'    |    |   \ |  | \/  |  /|  | \  ___/ ')
+    runntxt(GL+'    |______  / |__|  |____/ |__|  \___  > ')
     runntxt(R+'           \/                         \/ ')
 			   
 	    
     time.sleep(1.5)
     print GL+"  √=============================================√"
     print R+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
-    print WW+"  √=============================================√"
-    print GG+"  |            MOD BY: BISHAL SINGH             |"
+    print GL+"  √=============================================√"
+    print GG+"  |           MADE BY: BISHAL SINGH             |"
     print C+"  |       Easy Way To BruteForce Facebook       |"
     print GL+"  |             YouTube: Anon4You               |"
     print W+"  |              GitHub: Anon4You               |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |               Noobda Hacker                 |"
+    print Y+"  |            WITH CUSTOM PASSWORD             |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print R+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
+    print R+"  |•••••••••A tool by BISHAL SINGH ^_^ •••••••••|"
     print GG+"  √=============================================√"
 
 banner()
 
 print wd+"         https://www.github.com/Anon4You "
-print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
+print GG+"╭────\033[91m[\033[96m ENTER \033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
 print "\033[92m╭────\033[91m[ \033[96mMasukkan File Wordlist \033[95m( pass.txt ) \033[91;1m]"
