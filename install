@@ -1,1 +1,1 @@
-pkg install python2 toilet -y && mv bruteforce .fb && cd .fb && mv .brt bruteforce && mv bruteforce /data/data/com.termux/files/usr/bin && cd && mv .fb /data/data/com.termux/files/usr && clear && toilet -f term -F border --gay ' Tyep bruteforce to run tool '
+cd && pkg install python2 toilet -y && mv bruteforce .fb && cd .fb && mv .brt bruteforce && chmod 777 bruteforce && mv bruteforce /data/data/com.termux/files/usr/bin && cd && mv .fb /data/data/com.termux/files/usr && clear && toilet -f term -F border --gay ' Tyep bruteforce to run tool '
