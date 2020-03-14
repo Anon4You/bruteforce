@@ -1,13 +1,7 @@
 # bruteforce
 Easy way to Bruteforce attack custom password list
 
-Author : Bishal Singh 
-
-   ___                  ______  __
-  / _ | ___  ___  ___  / / /\ \/ /__  __ __
- / __ |/ _ \/ _ \/ _ \/_  _/ \  / _ \/ // /
-/_/ |_/_//_/\___/_//_/ /_/   /_/\___/\_,_/
-
+Author : Bishal Singh
 
 installation****
 
