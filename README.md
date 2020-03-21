@@ -1,7 +1,7 @@
 # bruteforce
 Easy way to Bruteforce attack custom password list
 
-Author : Bishal Singh
+# Author : Bishal Singh
 
 installation****
 
