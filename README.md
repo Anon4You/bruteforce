@@ -7,6 +7,8 @@ installation****
 
 git clone https://github.com/Anon4You/bruteforce.git
 
+pkg install python2 -y
+
 pip2 install mechanize
 
 cd bruteforce
